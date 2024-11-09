@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+ul,
+li,
+ol {
+    list-style: none;
+}
+
+a,
+span {
+    text-decoration: none;
+    display: inline-block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
+section,
+p,
+a,
+button,
+img,
+svg {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
